@@ -1,4 +1,4 @@
-## Hola 👋
+# Hola 👋
 ### •Me llamo Kenneth Gracia
 
 ### •Estudio Ingenieria de sistemas en la Universidad Santo Tomas en colombia 🧑‍🎓
