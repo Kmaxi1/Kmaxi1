@@ -1,5 +1,7 @@
 ## Hi there 👋
-jfjjjjjjgh
+•Me llamo Kenneth Gracia
+•Estudio Ingenieria de sistemas en la Universidad Santo Tomas en colombia
+•Me gusta la musica, la programacion y los videojuegos
 <!--
 **Kmaxi1/Kmaxi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
